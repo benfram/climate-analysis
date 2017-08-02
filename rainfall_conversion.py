@@ -8,6 +8,11 @@ def inches_to_mm(inches):
 		inches -- the rainfall in inches 
 		"""
 		mm = inches * 25.4
+
 		return mm 
 		
 #TODO (developer -a): GO TO SLEEP
+
+
+#TODO(DelphineLobelle): Add function to convert from inches to cm!!!!!! Get on with it
+
